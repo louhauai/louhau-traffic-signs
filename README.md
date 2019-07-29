@@ -1,2 +1,4 @@
 # louhau-traffic-signs
-traffic sign dataset
+
+## 比賽
+澳門勞工子弟學校於2019年7月-8月參加了由澳大大學舉辦的澳門人工智能挑戰賽
